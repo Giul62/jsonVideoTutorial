@@ -1,0 +1,24 @@
+{
+  "userInfo":[
+    {
+    "UserId":"0",
+    "firstname":"Alex",
+    "Surname":"PETIT"
+    },
+    {
+    "UserId":"1",
+    "firstname":"Chris",
+    "Surname":"GRAND"
+    },
+    {
+    "UserId":"2",
+    "firstname":"Fred",
+    "Surname":"MOYEN"
+    },
+    {
+    "UserId":"3",
+    "firstname":"Mike",
+    "Surname":"BRANT"
+    }
+  ]
+}
