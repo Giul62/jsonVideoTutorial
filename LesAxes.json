@@ -19,6 +19,8 @@
     "axe4":"0",
     "axe5":"-82",
     "axe6":"0"
+    "action":"none",
+    "delay":"5"
     }
   ],
   "Position3":[
@@ -29,6 +31,8 @@
     "axe4":"0",
     "axe5":"-82",
     "axe6":"0"
+    "action":"none",
+    "delay":"0"
     }
   ],
   "Position4":[
@@ -39,6 +43,8 @@
     "axe4":"0",
     "axe5":"-87",
     "axe6":"0"
+    "action":"drop",
+    "delay":"0"
     }
   ]
 }
