@@ -8,7 +8,7 @@
     "axe5":"-87",
     "axe6":"0",
     "action":"take",
-    "delay":"10"
+    "delay":"5"
     }
   ],
   "Position2":[
@@ -20,7 +20,7 @@
     "axe5":"-82",
     "axe6":"0",
     "action":"none",
-    "delay":"5"
+    "delay":"2"
     }
   ],
   "Position3":[
@@ -44,7 +44,7 @@
     "axe5":"-87",
     "axe6":"0",
     "action":"drop",
-    "delay":"0"
+    "delay":"5"
     }
   ]
 }
