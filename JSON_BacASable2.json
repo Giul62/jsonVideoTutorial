@@ -1,15 +1,15 @@
 {
   "Alimentation":[
     {
-    "niveauTension":"0,523",
+    "niveauTension":"0523",
     "position":"Basse"
     }
   ],
   "Substract1":[
     {
     "style":"Double",
-    "epaisseur":"0.003",
-    "electrolyte":"128,52"
+    "epaisseur":"0003",
+    "electrolyte":"12852"
     }
   ]
 }
