@@ -11,5 +11,11 @@
     "epaisseur":"0.03",
     "electrolyte":"1.285"
     }
+  ],
+    "Four":[
+    {
+    "temperature":"192",
+    "hum":"OK"
+    }
   ]
 }
