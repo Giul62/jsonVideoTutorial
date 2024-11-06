@@ -1,0 +1,15 @@
+{
+  "Alimentation":[
+    {
+    "niveauTension":"0",
+    "position":"-9"
+    }
+  ],
+  "Substract":[
+    {
+    "style":"0",
+    "epaisseur":"-1",
+    "electrolyte":"-81"
+    }
+  ]
+}
