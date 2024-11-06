@@ -5,7 +5,7 @@
     "position":"Basse"
     }
   ],
-  "Substract1":[
+  "Substrat1":[
     {
     "style":"Double",
     "epaisseur":"0.03",
@@ -16,6 +16,13 @@
     {
     "temperature":"192",
     "hum":"OK"
+    }
+  ],
+    "Substrat2":[
+    {
+    "style":"Double",
+    "epaisseur":"0.03",
+    "electrolyte":"1.285"
     }
   ]
 }
