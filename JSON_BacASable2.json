@@ -24,5 +24,13 @@
     "epaisseur":"0.03",
     "electrolyte":"1.285"
     }
+  ],
+    "Calandrage":[
+    {
+    "force":"2.56",
+    "epaisseur":"0.01",
+    "hum":"OK",
+    "poussiere":"Non"
+    }
   ]
 }
