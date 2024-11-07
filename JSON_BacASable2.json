@@ -32,5 +32,11 @@
     "hum":"OK",
     "poussiere":"Non"
     }
+  ],
+    "Decoupage":[
+    {
+    "Feu":"Non",
+    "temperature":"166"
+    }
   ]
 }
